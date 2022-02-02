@@ -5,7 +5,7 @@ from chat_using_LogisticRegression import chat_bot_LR
 
 app = Flask("My bot")
 
-FB_ACCESS_TOKEN = 'EAAI6LZBZBn2dsBAPgjJ2l6ZCqD8tdfrZCgfXpmEcHnzJsbt0KbhjuSGNxUxTnQqRuEnnHrTY6sxzhTKivRmx9AoameT26YN1PT8o4FeQvQGuv8gAAq4RaYvwX6OcD38AhkX0xqE1hSimZCYNbQtp7krCSuOwVOxCluyNboZBPkCwkuTh9AfvJw'
+FB_ACCESS_TOKEN = 'YOUR_TOKEN_GOES_HERE'
 bot = Bot(FB_ACCESS_TOKEN)
 
 VERIFICATION_TOKEN = "hello"

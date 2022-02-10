@@ -24,7 +24,7 @@ for tag in tags_test:
 token_test = {}
 token_test = tokenizer.batch_encode_plus(
     X_test,
-    max_length=15,
+    max_length=13,
     padding='max_length',
     truncation=True
 )

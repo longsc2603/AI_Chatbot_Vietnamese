@@ -45,8 +45,8 @@ y_train = torch.tensor(y)
 batch_size = 8
 hidden_size = 512
 num_class = len(tags)
-lr = 1e-4
-num_epoch = 40
+lr = 7.5e-5
+num_epoch = 100
 
 dataset = TensorDataset(X_train, X_train_mask, y_train)
 train_data = DataLoader(dataset=dataset, batch_size=batch_size,

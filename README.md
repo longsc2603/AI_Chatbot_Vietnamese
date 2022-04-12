@@ -8,3 +8,7 @@ This repository is an updated version and is used for Vietnamese. In here there 
 I also fine-tune the PhoBERT model on the dataset about DUT FAST Faculty Students.
 
 (Pho is Phở, for those who do not know)
+
+Here is a link to my personal Facebook Page Chatbot for you to check out, use the Frequently Asked Question given in the chat if you are new to get the hang of what information the chatbot can provide:
+
+https://www.facebook.com/hiiamsa
